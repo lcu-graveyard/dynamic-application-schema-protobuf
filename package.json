@@ -1,6 +1,6 @@
 {
   "name": "@fathym-forge/daf-schema-protobuf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "scripts": {
     "build-publish": "npm version patch && npm run publish",
