@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": false,
   "scripts": {
-    "deploy": "npm publish --access public"
+    "build-publish": "npm version patch && npm run publish",
+    "publish": "npm publish --access public"
   },
   "dependencies": {
     "protobufjs": "6.8.8"
