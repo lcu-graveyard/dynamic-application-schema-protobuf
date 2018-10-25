@@ -1,4 +1,4 @@
-# dynamic-application-schema
+# dynamic-application-schema-protobuf
 
 The Core schema used to represent a configuration driven application development experience for Enterprises.
 
