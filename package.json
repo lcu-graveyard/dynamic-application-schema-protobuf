@@ -7,7 +7,7 @@
     "deploy": "npm publish --access public"
   },
   "dependencies": {
-    "protobufjs": "6.8.8"
+    "protobufjs": "6.11.3"
   },
   "devDependencies": {}
 }
